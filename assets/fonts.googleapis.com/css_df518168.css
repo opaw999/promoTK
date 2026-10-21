@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-display: fallback;
+  src: url('../fonts.gstatic.com/l/font.eot') format('embedded-opentype');
+  /* src: url(https://fonts.gstatic.com/l/font?kit=6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7h&skey=1e026b1c27170b9b&v=v23); */
+}
